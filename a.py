@@ -6,9 +6,9 @@ import datetime
 import os
 
 # Bot məlumatları
-api_id = 13016641
-api_hash = 'a8385d296e8b826994bee14b83cf988b'
-bot_token = '7286251846:AAFw053eGptYcTEQcXOMZaid1atauM_1urc'
+api_id = 27377429
+api_hash = '3efb697b4feaee584db50bcf3926e902'
+bot_token = '7640913414:AAESzdyveJvZC9ZXoAiB9H-9M1Onj3prbpk'
 app = Client("future_bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
 
 # Database bağlantıları
